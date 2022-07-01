@@ -7,7 +7,7 @@ Carl Zeiss Image CZI files to SimFCS B64 binary files.
 
 Usage: ``czi2b64.exe [--group] <file.czi> [<file.b64>]``
 
-:Author: `Christoph Gohlke <https://www.cgohlke.com>`_,
+:Author: `Christoph Gohlke <https://www.cgohlke.com>`_
 :Version: 2022.7.1
 
 Revisions
